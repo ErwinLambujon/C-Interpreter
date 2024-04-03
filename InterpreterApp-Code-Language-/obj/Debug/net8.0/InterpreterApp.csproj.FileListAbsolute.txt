@@ -1,0 +1,15 @@
+C:\Users\Administrator\Source\Repos\InterpreterApp-Code-Language-\bin\Debug\net8.0\InterpreterApp.exe
+C:\Users\Administrator\Source\Repos\InterpreterApp-Code-Language-\bin\Debug\net8.0\InterpreterApp.deps.json
+C:\Users\Administrator\Source\Repos\InterpreterApp-Code-Language-\bin\Debug\net8.0\InterpreterApp.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\InterpreterApp-Code-Language-\bin\Debug\net8.0\InterpreterApp.dll
+C:\Users\Administrator\Source\Repos\InterpreterApp-Code-Language-\bin\Debug\net8.0\InterpreterApp.pdb
+C:\Users\Administrator\Source\Repos\InterpreterApp-Code-Language-\obj\Debug\net8.0\InterpreterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Source\Repos\InterpreterApp-Code-Language-\obj\Debug\net8.0\InterpreterApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\InterpreterApp-Code-Language-\obj\Debug\net8.0\InterpreterApp.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\InterpreterApp-Code-Language-\obj\Debug\net8.0\InterpreterApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\InterpreterApp-Code-Language-\obj\Debug\net8.0\InterpreterApp.sourcelink.json
+C:\Users\Administrator\Source\Repos\InterpreterApp-Code-Language-\obj\Debug\net8.0\InterpreterApp.dll
+C:\Users\Administrator\Source\Repos\InterpreterApp-Code-Language-\obj\Debug\net8.0\refint\InterpreterApp.dll
+C:\Users\Administrator\Source\Repos\InterpreterApp-Code-Language-\obj\Debug\net8.0\InterpreterApp.pdb
+C:\Users\Administrator\Source\Repos\InterpreterApp-Code-Language-\obj\Debug\net8.0\InterpreterApp.genruntimeconfig.cache
+C:\Users\Administrator\Source\Repos\InterpreterApp-Code-Language-\obj\Debug\net8.0\ref\InterpreterApp.dll
